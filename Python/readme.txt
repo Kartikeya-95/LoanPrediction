@@ -1,1 +1,2 @@
-
+This folder contains jupyter notebook files having the Exploratory Data Analysis including Univariate & Multivariate Analysis and predictive modelling. Here, I used correlation based feature selection. I used chi-square and 1-way ANOVA using f-statistic to find the p-value, depecting whether the variable under consideration is dependent on the label.
+The detailed approach with proper description and code can be found in ipynb file in this folder. 
